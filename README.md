@@ -15,6 +15,8 @@ I'm a passionate DevOps enthusiast and cloud learner. Currently exploring the va
 - **Monitoring:** Prometheus, Grafana, ELK Stack
 - **Version Control:** Git, GitHub
 - **Scripting:** Bash, Python
+- **Backend:** NodeJs , Express
+
 
 ```
 $ kubectl get skills
@@ -26,6 +28,7 @@ aws                            Scaling     6m
 git                            Committed   2y
 helm                           Completed   3m
 yaml-indentation-mastery       CrashLoop   ∞
+NodeJS                         Completed   1y
 ```
 
 ## 📊 GitHub Stats
