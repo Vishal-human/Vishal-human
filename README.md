@@ -1,6 +1,5 @@
 # 👋 Hello, I'm vishal suthar
  
-## 🚀 About Me
 I'm a passionate DevOps enthusiast and cloud learner. Currently exploring the vast world of infrastructure automation, containerization, and cloud architecture.
 
 > "In the cloud, no one can hear you scream when you forget to set up your IAM permissions correctly."
