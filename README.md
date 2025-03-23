@@ -5,27 +5,19 @@ I'm a passionate DevOps enthusiast and cloud learner. Currently exploring the va
 > "In the cloud, no one can hear you scream when you forget to set up your IAM permissions correctly."
 
 ## 🔧 Tech Stack & Skills
-- **Containerization:** Docker, Kubernetes
-- **CI/CD:** Jenkins
-- **IaC:** Terraform
-- **Cloud Platforms:** AWS
-- **Monitoring:** Prometheus, Grafana, ELK Stack
-- **Version Control:** Git, GitHub
-- **Scripting:** Bash, Python
-- **Backend:** NodeJs , Express
-
-
 ```
-$ kubectl get skills
-NAME                           STATUS      AGE
-docker                         Running     1y
-terraform                      Running     8m
-kubernetes                     Pending     2m
-aws                            Scaling     6m
-git                            Committed   2y
-helm                           Completed   3m
-yaml-indentation-mastery       CrashLoop   ∞
-NodeJS                         Completed   1y
+$ kubectl get completed-skills
+NAME                           EXPERIENCE       AGE
+docker                         Hands-on         1y
+terraform                      In Practice      8m
+kubernetes                     Exploring        2m
+aws                            Deep Dive        6m
+git                            Daily Driver     2y
+helm                           Actively Using   3m
+yaml-indentation-mastery       Debugging        ∞
+NodeJS                         Building With    1y
+Jenkins                        Automating CI/CD 4m
+
 ```
 
 ## 📊 GitHub Stats
