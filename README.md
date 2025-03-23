@@ -6,7 +6,7 @@ I'm a passionate DevOps enthusiast and cloud learner. Currently exploring the va
 
 ## 🔧 Tech Stack & Skills
 ```
-$ kubectl get completed-skills
+$ kubectl get skills
 NAME                           EXPERIENCE       AGE
 docker                         Hands-on         1y
 terraform                      In Practice      8m
