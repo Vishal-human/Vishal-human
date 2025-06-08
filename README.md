@@ -1,4 +1,4 @@
-# 👋 Hello, I'm vishal suthar
+# 👋 Hello, I'm Vishal Suthar
 
 I'm a passionate DevOps and cloud enthusiast. Currently exploring the vast world of infrastructure automation, containerization, and cloud architecture.
 
