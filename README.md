@@ -7,16 +7,16 @@ I'm a passionate DevOps and cloud enthusiast. Currently exploring the vast world
 ## 🔧 Tech Stack & Skills
 ```
 $ kubectl get skills
-NAME                           EXPERIENCE       AGE
-docker                         Hands-on         1y
-terraform                      In Practice      8m
-kubernetes                     Exploring        2m
-aws                            Deep Dive        6m
-git                            Daily Driver     2y
-helm                           Actively Using   3m
-yaml-indentation-mastery       Debugging        ∞
-NodeJS                         Building With    1y
-Jenkins                        Automating CI/CD 4m
+NAME                          
+docker                         
+terraform                      
+kubernetes                    
+aws                          
+git                            
+helm                       
+yaml-indentation-mastery       
+NodeJS                       
+Jenkins                      
 
 ```
 ![your k8s image](https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white)
