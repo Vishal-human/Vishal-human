@@ -20,10 +20,13 @@ Jenkins                        Automating CI/CD 4m
 
 ```
 ![your k8s image](https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white)
+![your Docker image]([https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![your CircleCI image](https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white)
+![your CircleCI image](https://img.shields.io/badge/Jenkins-49728B?style=for-the-badge&logo=jenkins&logoColor=white
+)
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishal-human&show_icons=true&theme=radical)
-![Your GitHub stats](https://private-user-images.githubusercontent.com/13622306/507331223-54dc1f7a-f327-43ab-ae9c-58c7421eee39.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjM4OTI1ODksIm5iZiI6MTc2Mzg5MjI4OSwicGF0aCI6Ii8xMzYyMjMwNi81MDczMzEyMjMtNTRkYzFmN2EtZjMyNy00M2FiLWFlOWMtNThjNzQyMWVlZTM5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTIzVDEwMDQ0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA3ODMxYzMzZjg3Mjk1NmYzOGRjNWRmZGYwZWJiZTM2YWI4NThmMDNiNWMwNzk4ZTEzN2QwNzliZDdlODE3NDEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.wog7_9o3gLFUpQSIul9ziV14N1_jpl6J7ISDbdWXNig)
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-suthar-8317b4246/)
