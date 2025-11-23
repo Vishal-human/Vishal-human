@@ -19,6 +19,7 @@ NodeJS                         Building With    1y
 Jenkins                        Automating CI/CD 4m
 
 ```
+![your k8s image](https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishal-human&show_icons=true&theme=radical)
