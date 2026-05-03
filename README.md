@@ -26,7 +26,6 @@ Jenkins
 ![your Hostinger image](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
 ![your Terraform image](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![your Helm image](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689)
-```![your KCNA image]()```
 
 
 
