@@ -36,7 +36,7 @@ Jenkins
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-suthar-8317b4246/)
 
-☕ Support My DevOps Journey
+## ☕ Support My DevOps Journey
 
 Enjoy my projects, find something useful, or appreciate the work I share? You can support my journey with a coffee! 💙
 
@@ -49,5 +49,6 @@ Every coffee fuels another experiment, another deployment, and probably another 
 ☕ Buy me a coffee
 
 No pressure — a ⭐ on my repositories, sharing my work, or connecting with me is equally appreciated! 🚀
+
 
 > Remember: The cloud is just someone else's computer, but with better uptime than yours. ☁️
