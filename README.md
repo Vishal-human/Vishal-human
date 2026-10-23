@@ -35,6 +35,7 @@ Jenkins
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-suthar-8317b4246/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=vishal4.suthar@gmail.com)
 
 ## ☕ Support My DevOps Journey
 
@@ -45,6 +46,7 @@ Every coffee fuels another experiment, another deployment, and probably another 
 <a href="https://buymeacoffee.com/vishal4sut9">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200">
 </a>
+
 
 ☕ Buy me a coffee
 
